@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritika Gupta</h1>
 <h3 align="center">A frontend developer and a Full Stack enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <br>
@@ -57,10 +56,8 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritika30032002&show_icons=true&locale=en&layout=compact" alt="kritika30032002" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritika30032002&show_icons=true&locale=en" alt="kritika30032002" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika30032002&" alt="kritika30032002" /></p>
 
 
