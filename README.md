@@ -10,9 +10,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika30032002&label=Profile%20views&color=0e75b6&style=flat" alt="kritika30032002" /> </p>
 
-- 🌱 I’m currently learning **Backend Web Development**
-
-- 📫 How to reach me **kritikagupta3003@gmail.com**
+🎓 I am an undergrad 3rd year college student, pursuing BTech in Computer Science.
+👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
+🌱 I’m currently learning **Backend Web Development**
+💬 I would love to talk about internship opportunities.
+💞️ I’m looking to collaborate on any open source platform.
+💡 I am currently focusing on Data Structures and Algorithm in C++ and building my portfolio.
+📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+📫 You can connect with me via linkedin or by Mail(**kritikagupta3003@gmail.com**).
 
 <br>
 
