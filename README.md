@@ -33,6 +33,8 @@
 
 <br>
 
+[![KritikaGupta30's GitHub | Stats](https://stats.quine.sh/KritikaGupta30/github?theme=light)](https://quine.sh)
+
 <h1>All About Hacktoberfest 2022 </h1>
 
 [![@kritikagupta3003's Holopin board](https://holopin.me/kritikagupta3003)](https://holopin.io/@kritikagupta3003)
