@@ -1,18 +1,49 @@
 <h1 align="center">Hi 👋, I'm Kritika Gupta</h1>
-<h3 align="center">A frontend developer and a Full Stack enthusiast from India</h3>
+<h3 align="center">A  Full Stack developer from India</h3>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika30032002&label=Profile%20views&color=0e75b6&style=flat" alt="kritika30032002" /> </p>
 
-🎓 I am a final-year Computer Science Engineering student with a passion for web development, particularly in the MERN stack.<br>
-👀 I’m interested in Open Source, Web Development, UI/UX and Programming. <br>
-🌱 I’m currently learning **Backend Web Development**. <br>
-💬 I would love to talk about internship opportunities. <br>
-💞️ I’m looking to collaborate on any open source platform. <br>
-💡 I am currently focusing on **Data Structures and Algorithm** in *C++* and building my portfolio. <br>
-📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields. <br>
-📫 You can connect with me via  [linkedin](https://www.linkedin.com/in/kritika-gupta-343458212/) or by [Mail](kritikagupta3003@gmail.com).
+# 👩‍💻 About Me
+- Final-year Computer Science Engineering student.
+- Passionate about web development, especially in the MERN stack.
+
+# 👀 Interests
+- Open Source
+- Web Development
+- UI/UX
+- Programming
+
+# 💞️ Open to Collaboration
+- Interested in collaborating in the open source platform/event.
+
+# 👩‍💻 Technical Proficiency
+- Proficient in C++, C, and web development technologies, including:
+  - ReactJS, Redux
+  - HTML, CSS, JavaScript
+  - NodeJS, ExpressJS, MongoDB
+
+# 🌐 Professional Experience
+- Frontend Web Development Intern at NOI Technologies LLC.
+  - Gained hands-on experience in developing responsive and user-friendly web applications.
+
+# 🚀 Achievements
+- Ex-Martian Summer Intern'23 at Persistent.
+- Mentor at Various Open source events.
+- Hacksquad'22 Winner.
+- MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Web Developer.
+
+# 🌐 Involvement in Community and Leadership Experience
+- Active participant in open-source events.
+- Mentor for newcomers in the open source tech community.
+  - Mentored at KWOC 2022, KWOC 2023, HACKTOBERFEST 2023, CODEPEAK 2023, IWOC 2024.
+- Participated as a participant in HACKTOBERFEST 2022, HACKSQUAD 2022(**WINNER**), SSOC 2022 (Social Summer of Code), HACKTOBERFEST 2023
+
+# 🤝 Excited to Connect
+- Excited to connect with fellow professionals.
+- Eager to explore new opportunities and contribute to the tech industry.
+You can connect with me via  [linkedin](https://www.linkedin.com/in/kritika-gupta-343458212/) or by [Mail](kritikagupta3003@gmail.com).
 
 
 <h3 align="left">Connect with me:</h3>
