@@ -20,9 +20,11 @@
 
 # 👩‍💻 Technical Proficiency
 - Proficient in C++, C, and web development technologies, including:
-  - ReactJS, Redux
+  - NodeJS, ExpressJS, MongoDB, ReactJS (MERN)
   - HTML, CSS, JavaScript
-  - NodeJS, ExpressJS, MongoDB
+  - Redux, API, Tailwind CSS
+  - Payments API (Stripe & Cashfree),
+  - Twillio Mobile otp verification 
 
 # 🌐 Professional Experience
 - Frontend Web Development Intern at NOI Technologies LLC.
@@ -37,7 +39,7 @@
 # 🌐 Involvement in Community and Leadership Experience
 - Active participant in open-source events.
 - Mentor for newcomers in the open source tech community.
-  - Mentored at KWOC 2022, KWOC 2023, HACKTOBERFEST 2023, CODEPEAK 2023, IWOC 2024.
+  - Mentored at KWOC 2022, KWOC 2023, HACKTOBERFEST 2023, CODEPEAK 2023, IWOC 2024, Caffeine & Code Mentor, GSSOC'24.
 - Participated as a participant in HACKTOBERFEST 2022, HACKSQUAD 2022(**WINNER**), SSOC 2022 (Social Summer of Code), HACKTOBERFEST 2023
 
 # 🤝 Excited to Connect
